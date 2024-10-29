@@ -1,0 +1,54 @@
+[
+    {
+      "title": "Algemeen",
+      "items": [
+        {
+          "ariaLabel": "Website",
+          "value": "www.lansingerland.nl/",
+          "link": "https://lansingerland.nl/",
+          "icon": { "prefix": "fas", "icon": "globe", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Privacy",
+          "value": "Privacy",
+          "link": "https://lansingerland.nl/privacyverklaring",
+          "icon": { "prefix": "fas", "icon": "circle-exclamation", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Toegankelijkheid",
+          "value": "Toegankelijkheid",
+          "link": "https://www.lansingerland.nl/toegankelijkheidsverklaring/",
+          "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Over deze website",
+          "value": "Over deze website",
+          "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/assets/Over%20deze%20website.md",
+          "icon": { "prefix": "fas", "icon": "circle-info", "placement": "left" }
+        }
+      ]
+    },
+    {
+      "title": "Contact",
+      "items": [
+        {
+          "ariaLabel": "Phone number",
+          "value": "14 071",
+          "link": "tel:14071",
+          "icon": { "prefix": "fas", "icon": "phone", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Contact",
+          "value": "Contact",
+          "link": "https://www.lansingerland.nl/contact/",
+          "icon": { "prefix": "fas", "icon": "address-book", "placement": "left" }
+        },
+        {
+          "ariaLabel": "Onze locaties",
+          "value": "Onze locaties",
+          "link": "https://www.lansingerland.nl/contact/#servicepunten",
+          "icon": { "prefix": "fas", "icon": "location-dot", "placement": "left" }
+        }
+      ]
+    }
+  ]
